@@ -1,3 +1,5 @@
+```
+
 use animaldb;
 create table animal (
 	Number INT,
@@ -1006,3 +1008,6 @@ insert into animal (Number, Animal, Gender) values (999, 'Serval', 'F');
 insert into animal (Number, Animal, Gender) values (1000, 'Cormorant (unidentified)', 'F');
 
 SELECT * from animal;
+
+
+```
